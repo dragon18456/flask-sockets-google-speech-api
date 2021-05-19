@@ -10,4 +10,4 @@ In order to test this:
 6. Go to http://localhost:8000/ and start speaking
 
 
-I adapted the server code from https://github.com/dawntcherian/Google-speech-to-text-python-websocket-server-using-microphone-stream and just added the flask_sockets server and the landing page from https://gist.github.com/cobookman/6459f0423d56527ad136999e57d181ea and just adapted the websocket code for the flask_sockets backend
+I adapted the server code from https://github.com/dawntcherian/Google-speech-to-text-python-websocket-server-using-microphone-stream and just added the flask_sockets server and the landing page from https://gist.github.com/cobookman/6459f0423d56527ad136999e57d181ea.
